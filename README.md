@@ -11,7 +11,7 @@
 ## 链接
 
 - [研究文章](https://cubk.cn/articles/obliterating-zelix-klass-master)
-- [ZKM 27.0.0 Web版](https://zkm.cubk.cn/)
+- [在线使用ZKM 27.0.0](https://zkm.cubk.cn/)
 
 ## 联系
 
