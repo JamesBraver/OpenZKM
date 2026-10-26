@@ -10,7 +10,7 @@
 
 ## 链接
 
-- [Write-up](https://cubk.cn/articles/obliterating-zelix-klass-master)
+- [研究文章](https://cubk.cn/articles/obliterating-zelix-klass-master)
 - [ZKM 27.0.0 Web版](https://zkm.cubk.cn/)
 
 ## 联系
