@@ -1,0 +1,21 @@
+package com.zelix.utils.dataset;
+
+import java.io.Serializable;
+
+public class IntSize implements Serializable {
+	private int key;
+	private int value;
+
+	public IntSize(int key, int value) {
+		this.key = key;
+		this.value = value;
+	}
+
+	public int getKey() {
+		return this.key;
+	}
+
+	public int getValue() {
+		return this.value;
+	}
+}
